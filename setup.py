@@ -6,7 +6,7 @@ setuptools.setup(
     name="extension_xtts_ft_demo",
     packages=setuptools.find_namespace_packages(),
     # version="2.0.3",
-    version="0.0.1",
+    version="0.0.2",
     # author="lj1995",
     author="rsxdalv",
     license="MPL-2.0",
